@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SIva Sriram</h1>
+<h1 align="center">Hi 👋, I'm Siva Sriram</h1>
 
 - 🌱 I’m currently learning **Full Stack in MERN**
 
@@ -49,4 +49,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SivaPhoenix&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-[![](https://visitcount.itsvg.in/api?id=SivaPhoenix&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=SivaPhoenix&icon=0&color=0)](https://visitcount.itsvg.in) -->
