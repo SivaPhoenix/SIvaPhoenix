@@ -5,9 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/siva-sriram-a-b-1206ss/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siva-sriram-a-b-1206ss/" height="20" width="30" /></a>
-
-<a href="https://www.instagram.com/siva._.prince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Siva" height="20" width="30" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siva-sriram-a-b-1206ss/" height="20" width="30" /></a><a href="https://www.instagram.com/siva._.prince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Siva" height="20" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
