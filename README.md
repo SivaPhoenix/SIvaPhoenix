@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siva Sriram</h1>
 
-- 🌱 I’m currently learning **Full Stack in MERN**
+- 🌱 I’m currently working on **MERN STACK**
 
 
 
